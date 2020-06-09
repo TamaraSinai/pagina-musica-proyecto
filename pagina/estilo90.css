@@ -1,0 +1,21 @@
+body {
+	background-color: #330066;
+	color: #3A3A90;
+}
+.texto {
+	color: #FF0066;
+	font-size: 14px;
+}
+.enca {
+	color: #33FFFF;
+	font-size: 36px;
+	font-family: "Courier New", Courier, monospace;
+}
+#Layer1 {
+	position:absolute;
+	width:200px;
+	height:49px;
+	z-index:1;
+	left: 801px;
+	top: 1709px;
+}
